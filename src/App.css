@@ -1,4 +1,10 @@
+body {
+  background: orange;
+}
+
 input {
   display: block;
+  background: #ccc;
+  border: 1px solid gray;
   margin-bottom: 1rem;
 }
